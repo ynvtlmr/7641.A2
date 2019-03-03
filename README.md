@@ -40,30 +40,46 @@ It may be deactivated with: `deactivate`
 
 ## Abridged directory structure
 ```
-├── src
-│   ├── model_train.py
-│   ├── model_evaluation.py
-│   ├── visualize_data.py
-│   └── clf_*.py
+├── algorithms
+│   ├── genetic_algorithm.py
+│   ├── mimic.py
+│   ├── random_hill_climb.py
+│   └── simulated_annealing.py
 ├── data
-│   ├── banana.csv
 │   └── contraceptive.csv
+├── neural_networks
+│   ├── bar_chart.py
+│   ├── neural_networks.py
+│   └── nn_compare.py
 ├── plots
-│   └── *
+│   ├── complex_time
+│   ├── fit_iter
+│   │   └── *.png
+│   ├── fit_time
+│   │   └── *.png
+│   └── neural_network
 │       └── *.png
-├── README.txt
+├── puzzles
+│   ├── bar_chart.py
+│   ├── k_coloring.py
+│   ├── knapsack.py
+│   ├── plotter.py
+│   ├── puzzle_solver.py
+│   ├── run_all.py
+│   └── travelling_salesman.py
 └── requirements.txt
+
 ```
 
 ## Instructions
-Run `visualize_data.py` to visualize all datasets.
-Run `model_train.py` followed by `model_evaluation.py` to run and visualize
-all models using all datasets.
+Run `run_all.py` to run all the puzzle experiments.
+Run `neural_networks.py` to run all neural network optimization experiments.
+Run `bar_chart.py` to visualize.
 All generated visualizations are saved under the `plots` directory.
 
 
 ## Project 1
-A survey project exploring a number of machine learning algorithms on a couple datasets.
+A survey project exploring a number of randomized optimization algorithms on the contraceptives datasets.
 
 
 ## Authors
