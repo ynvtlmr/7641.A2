@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="303b6bf7-29a1-4b52-bfe9-fce2e56b6abb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/simulated_annealing.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/simulated_annealing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural_networks/bar_chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/neural_networks/bar_chart.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/neural_networks/neural_networks.py" beforeDir="false" afterPath="$PROJECT_DIR$/neural_networks/neural_networks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/neural_network/NN_accuracy.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/neural_network/NN_accuracy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/neural_network/NN_times.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/neural_network/NN_times.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/neural_network/avg_NN_13.csv" beforeDir="false" afterPath="$PROJECT_DIR$/plots/neural_network/avg_NN_13.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/fit_iter/Knapsack-1000-13-log.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/fit_iter/Knapsack-1000-13-log.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/fit_iter/Knapsack-1000-13.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/fit_iter/Knapsack-1000-13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/fit_time/Knapsack-1000-13-MM-log.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/fit_time/Knapsack-1000-13-MM-log.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/fit_time/maximums.csv" beforeDir="false" afterPath="$PROJECT_DIR$/plots/fit_time/maximums.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/neural_network/values.csv" beforeDir="false" afterPath="$PROJECT_DIR$/plots/neural_network/values.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzles/knapsack.py" beforeDir="false" afterPath="$PROJECT_DIR$/puzzles/knapsack.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,27 +26,35 @@
     <SUITE FILE_PATH="coverage/7641_a2$six_peaks.coverage" NAME="six_peaks Coverage Results" MODIFIED="1551253883774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzles" />
     <SUITE FILE_PATH="coverage/7641_a2$puzzle_solver.coverage" NAME="puzzle_solver Coverage Results" MODIFIED="1551488193267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzles" />
     <SUITE FILE_PATH="coverage/7641_a2$bar_char2.coverage" NAME="bar_char2 Coverage Results" MODIFIED="1551583019727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzles" />
+    <SUITE FILE_PATH="coverage/7641_a2$SA_params.coverage" NAME="SA_params Coverage Results" MODIFIED="1551669361942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/individual_puzzles" />
     <SUITE FILE_PATH="coverage/7641_a2$scratch_32.coverage" NAME="scratch_32 Coverage Results" MODIFIED="1551503320541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/7641_a2$scratch_29.coverage" NAME="scratch_29 Coverage Results" MODIFIED="1551308877412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/7641_a2$queens.coverage" NAME="queens Coverage Results" MODIFIED="1551295524388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzles" />
     <SUITE FILE_PATH="coverage/7641_a2$Doctests_in_simulated_annealing.coverage" NAME="Doctests in simulated_annealing Coverage Results" MODIFIED="1551140773449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
     <SUITE FILE_PATH="coverage/7641_a2$four_peaks.coverage" NAME="four_peaks Coverage Results" MODIFIED="1551254839254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzles" />
+    <SUITE FILE_PATH="coverage/7641_a2$scratch_38.coverage" NAME="scratch_38 Coverage Results" MODIFIED="1551667036985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/7641_a2$continuous_peaks.coverage" NAME="continuous_peaks Coverage Results" MODIFIED="1551299225372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzles" />
     <SUITE FILE_PATH="coverage/7641_a2$7641_a2.coverage" NAME="7641.a2 Coverage Results" MODIFIED="1550788987531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/7641_a2$scratch_26.coverage" NAME="scratch_26 Coverage Results" MODIFIED="1551164200200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/7641_a2$travelling_salesman.coverage" NAME="travelling_salesman Coverage Results" MODIFIED="1551254108498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzles" />
+    <SUITE FILE_PATH="coverage/7641_a2$scratch_35.coverage" NAME="scratch_35 Coverage Results" MODIFIED="1551663847300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/7641_a2$GA_params.coverage" NAME="GA_params Coverage Results" MODIFIED="1551669357224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/individual_puzzles" />
     <SUITE FILE_PATH="coverage/7641_a2$plotter.coverage" NAME="plotter Coverage Results" MODIFIED="1551232335613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzles" />
     <SUITE FILE_PATH="coverage/7641_a2$neural_network.coverage" NAME="neural_network Coverage Results" MODIFIED="1551502186536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/7641_a2$scratch_34.coverage" NAME="scratch_34 Coverage Results" MODIFIED="1551663621104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/7641_a2$mlrose.coverage" NAME="mlrose Coverage Results" MODIFIED="1550551097272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/7641_a2$run_all.coverage" NAME="run_all Coverage Results" MODIFIED="1551495262352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzles" />
-    <SUITE FILE_PATH="coverage/7641_a2$knapsack.coverage" NAME="knapsack Coverage Results" MODIFIED="1551308033283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzles" />
+    <SUITE FILE_PATH="coverage/7641_a2$knapsack.coverage" NAME="knapsack Coverage Results" MODIFIED="1551666343848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzles" />
     <SUITE FILE_PATH="coverage/7641_a2$tinkering.coverage" NAME="tinkering Coverage Results" MODIFIED="1550557207681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/7641_a2$neural_networks.coverage" NAME="neural_networks Coverage Results" MODIFIED="1551655763537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neural_networks" />
+    <SUITE FILE_PATH="coverage/7641_a2$neural_networks.coverage" NAME="neural_networks Coverage Results" MODIFIED="1551657870037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neural_networks" />
     <SUITE FILE_PATH="coverage/7641_a2$scratch_28.coverage" NAME="scratch_28 Coverage Results" MODIFIED="1551302188876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/7641_a2$MIMIC_params.coverage" NAME="MIMIC_params Coverage Results" MODIFIED="1551671196833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/individual_puzzles" />
+    <SUITE FILE_PATH="coverage/7641_a2$scratch_37.coverage" NAME="scratch_37 Coverage Results" MODIFIED="1551666272966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/7641_a2$nn_compare.coverage" NAME="nn_compare Coverage Results" MODIFIED="1551510850661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neural_networks" />
     <SUITE FILE_PATH="coverage/7641_a2$scratch_19.coverage" NAME="scratch_19 Coverage Results" MODIFIED="1550776790825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/7641_a2$k_coloring.coverage" NAME="k_coloring Coverage Results" MODIFIED="1551312042215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzles" />
-    <SUITE FILE_PATH="coverage/7641_a2$bar_chart.coverage" NAME="bar_chart Coverage Results" MODIFIED="1551656959435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neural_networks" />
+    <SUITE FILE_PATH="coverage/7641_a2$scratch_39.coverage" NAME="scratch_39 Coverage Results" MODIFIED="1551667923291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/7641_a2$bar_chart.coverage" NAME="bar_chart Coverage Results" MODIFIED="1551661203663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neural_networks" />
     <SUITE FILE_PATH="coverage/7641_a2$scratch_31.coverage" NAME="scratch_31 Coverage Results" MODIFIED="1551494425214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -60,40 +73,42 @@
         <counts>
           <entry key="CCSE" value="4" />
           <entry key="avg_NN_13" value="1" />
+          <entry key="avg_NN_13-10000" value="1" />
           <entry key="csv" value="61" />
           <entry key="ipynb" value="3" />
           <entry key="md" value="3" />
-          <entry key="png" value="98" />
-          <entry key="py" value="229" />
+          <entry key="png" value="109" />
+          <entry key="py" value="264" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="3" />
-          <entry key="Image" value="98" />
+          <entry key="Image" value="109" />
           <entry key="Markdown" value="3" />
-          <entry key="PLAIN_TEXT" value="68" />
-          <entry key="Python" value="212" />
-          <entry key="Scratch" value="20" />
+          <entry key="PLAIN_TEXT" value="69" />
+          <entry key="Python" value="241" />
+          <entry key="Scratch" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="CCSE" value="137" />
-          <entry key="csv" value="153" />
-          <entry key="dummy" value="12" />
+          <entry key="avg_NN_13-10000" value="6" />
+          <entry key="csv" value="157" />
+          <entry key="dummy" value="17" />
           <entry key="md" value="120" />
-          <entry key="py" value="7810" />
-          <entry key="txt" value="624" />
+          <entry key="py" value="9695" />
+          <entry key="txt" value="633" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="120" />
-          <entry key="PLAIN_TEXT" value="851" />
-          <entry key="Python" value="6744" />
-          <entry key="Scratch" value="1141" />
+          <entry key="PLAIN_TEXT" value="875" />
+          <entry key="Python" value="8150" />
+          <entry key="Scratch" value="1620" />
         </counts>
       </usages-collector>
     </session>
@@ -101,58 +116,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/neural_networks/neural_networks.py">
+        <entry file="file://$PROJECT_DIR$/individual_puzzles/GA_params.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3">
-              <caret line="60" column="23" lean-forward="true" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+            <state relative-caret-position="17">
+              <caret line="49" column="26" lean-forward="true" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/individual_puzzles/MIMIC_params.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/individual_puzzles/SA_params.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+              <folding>
+                <element signature="e#1#22#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/plots/neural_network/values.csv">
+        <entry file="file:///anaconda3/envs/py37/lib/python3.7/site-packages/mlrose/decay.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="266" selection-start-line="264" selection-end-line="266" />
-              <caret line="294" selection-start-line="292" selection-end-line="294" />
-              <caret line="322" selection-start-line="320" selection-end-line="322" />
-              <caret line="350" lean-forward="true" selection-start-line="348" selection-end-line="350" />
+            <state relative-caret-position="188">
+              <caret line="163" column="34" selection-start-line="163" selection-start-column="27" selection-end-line="163" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plots/neural_network/avg_NN_13.csv">
+        <entry file="file://$PROJECT_DIR$/algorithms/simulated_annealing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/neural_networks/bar_chart.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="76" column="40" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
+            <state relative-caret-position="56">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor>
-                <caret selection-end-column="42" />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -168,28 +183,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>f.</find>
-      <find>100</find>
-      <find>gradient_descent</find>
-      <find>mlrose.</find>
-      <find>.append([a</find>
-      <find>print(</find>
-      <find>full_run[</find>
-      <find>full_train_time,full_predict_time</find>
-      <find>,12,1000,100,</find>
-      <find>time()</find>
-      <find>,</find>
-      <find>plt.</find>
-      <find>ax3</find>
-      <find>position=</find>
-      <find>set_ylabel</find>
-      <find>clip_max</find>
-      <find>one_hot = OneHotEncoder()</find>
-      <find>&amp; Pre</find>
-      <find>ax.set_ylabel</find>
-      <find>size</find>
-      <find>1.0</find>
-      <find>simulated_annea</find>
       <find>tempera</find>
       <find>1000</find>
       <find>True</find>
@@ -198,6 +191,28 @@
       <find>,12,1000,100</find>
       <find>12,1000,100,False</find>
       <find>full_run</find>
+      <find>genetic_alg</find>
+      <find>GeomDec</find>
+      <find>,12,10000,100,False,</find>
+      <find>genetic</find>
+      <find>geomDec</find>
+      <find>solver(</find>
+      <find>GA4_</find>
+      <find>plt.save</find>
+      <find>temper</find>
+      <find>exp</find>
+      <find>scheud</find>
+      <find>color</find>
+      <find>max</find>
+      <find>mlrose.</find>
+      <find>k</find>
+      <find>problem</find>
+      <find>solv</find>
+      <find>random_h</find>
+      <find>iter_time</find>
+      <find>solver</find>
+      <find>0.</find>
+      <find>schedu</find>
     </findStrings>
     <replaceStrings>
       <replace>time()</replace>
@@ -207,8 +222,8 @@
       <replace>iter_fitness.append(problem.get_fitness())</replace>
     </replaceStrings>
     <dirStrings>
-      <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/algorithms</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -217,17 +232,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Downloads/mlrose_tinkering.py" />
-        <option value="$PROJECT_DIR$/algorithms/random_hill_climbing.py" />
-        <option value="$PROJECT_DIR$/algorithms/__init__.py" />
-        <option value="$PROJECT_DIR$/algorithms/random_hill_climb.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.py" />
-        <option value="$PROJECT_DIR$/algorithms/simulated_annealing.py" />
-        <option value="$PROJECT_DIR$/puzzle_solver.py" />
-        <option value="$PROJECT_DIR$/k_coloring.py" />
         <option value="$PROJECT_DIR$/six_peaks.py" />
         <option value="$PROJECT_DIR$/travelling_salesman.py" />
         <option value="$PROJECT_DIR$/continuous_peaks.py" />
@@ -245,7 +249,6 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_27.py" />
         <option value="$PROJECT_DIR$/puzzles/continuous_peaks.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_28.py" />
-        <option value="$PROJECT_DIR$/puzzles/knapsack.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.py" />
         <option value="$PROJECT_DIR$/puzzles/k_coloring.py" />
         <option value="$PROJECT_DIR$/puzzles/run_all.py" />
@@ -261,13 +264,25 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.py" />
         <option value="$PROJECT_DIR$/neural_networks/nn_compare.py" />
         <option value="$PROJECT_DIR$/plots/neural_network/avg_NN_3.csv" />
-        <option value="$PROJECT_DIR$/neural_networks/bar_chart.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_33.py" />
         <option value="$PROJECT_DIR$/README.txt" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/neural_networks/neural_networks.py" />
-        <option value="$PROJECT_DIR$/plots/neural_network/values.csv" />
         <option value="$PROJECT_DIR$/plots/neural_network/avg_NN_13.csv" />
+        <option value="$PROJECT_DIR$/neural_networks/neural_networks.py" />
+        <option value="$PROJECT_DIR$/algorithms/simulated_annealing.py" />
+        <option value="$PROJECT_DIR$/plots/neural_network/avg_NN_13-10000" />
+        <option value="$PROJECT_DIR$/plots/neural_network/values.csv" />
+        <option value="$PROJECT_DIR$/neural_networks/bar_chart.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_34.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_37.py" />
+        <option value="$PROJECT_DIR$/puzzles/knapsack.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_38.py" />
+        <option value="$PROJECT_DIR$/individual_puzzles/RHC_params.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.py" />
+        <option value="$PROJECT_DIR$/individual_puzzles/SA_params.py" />
+        <option value="$PROJECT_DIR$/individual_puzzles/GA_params.py" />
+        <option value="$PROJECT_DIR$/individual_puzzles/MIMIC_params.py" />
       </list>
     </option>
   </component>
@@ -298,7 +313,12 @@
             <path>
               <item name="7641.a2" type="b2602c69:ProjectViewProjectNode" />
               <item name="7641.a2" type="462c0819:PsiDirectoryNode" />
-              <item name="neural_networks" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7641.a2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7641.a2" type="462c0819:PsiDirectoryNode" />
+              <item name="individual_puzzles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="7641.a2" type="b2602c69:ProjectViewProjectNode" />
@@ -309,7 +329,7 @@
               <item name="7641.a2" type="b2602c69:ProjectViewProjectNode" />
               <item name="7641.a2" type="462c0819:PsiDirectoryNode" />
               <item name="plots" type="462c0819:PsiDirectoryNode" />
-              <item name="neural_network" type="462c0819:PsiDirectoryNode" />
+              <item name="ind_puzzles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="7641.a2" type="b2602c69:ProjectViewProjectNode" />
@@ -351,7 +371,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bar_chart">
+  <component name="RunManager" selected="Python.MIMIC_params">
     <configuration name="7641.a2" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="7641.a2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -370,7 +390,7 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
-    <configuration name="bar_char2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GA_params" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="7641.a2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -378,12 +398,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/puzzles" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/individual_puzzles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/puzzles/bar_char2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/individual_puzzles/GA_params.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -392,7 +412,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bar_chart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MIMIC_params" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="7641.a2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -400,12 +420,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/neural_networks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/individual_puzzles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neural_networks/bar_chart.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/individual_puzzles/MIMIC_params.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,7 +434,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="neural_networks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SA_params" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="7641.a2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -422,12 +442,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/neural_networks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/individual_puzzles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neural_networks/neural_networks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/individual_puzzles/SA_params.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -436,29 +456,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nn_compare" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="7641.a2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/neural_networks" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neural_networks/nn_compare.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="scratch_33" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="scratch_38" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="7641.a2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -471,7 +469,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_33.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_38.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_39" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="7641.a2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -482,19 +502,19 @@
     </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.7641.a2" />
-      <item itemvalue="Python.neural_networks" />
-      <item itemvalue="Python.bar_char2" />
-      <item itemvalue="Python.nn_compare" />
-      <item itemvalue="Python.bar_chart" />
-      <item itemvalue="Python.scratch_33" />
+      <item itemvalue="Python.GA_params" />
+      <item itemvalue="Python.SA_params" />
+      <item itemvalue="Python.scratch_38" />
+      <item itemvalue="Python.scratch_39" />
+      <item itemvalue="Python.MIMIC_params" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bar_chart" />
-        <item itemvalue="Python.neural_networks" />
-        <item itemvalue="Python.scratch_33" />
-        <item itemvalue="Python.bar_char2" />
-        <item itemvalue="Python.nn_compare" />
+        <item itemvalue="Python.MIMIC_params" />
+        <item itemvalue="Python.SA_params" />
+        <item itemvalue="Python.GA_params" />
+        <item itemvalue="Python.scratch_39" />
+        <item itemvalue="Python.scratch_38" />
       </list>
     </recent_temporary>
   </component>
@@ -533,7 +553,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.3857143" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40612245" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -548,7 +568,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.34004885" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.23260073" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -582,12 +602,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/neural_networks/bar_chart.py</url>
-          <line>20</line>
+          <line>14</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/neural_networks/bar_chart.py</url>
-          <line>24</line>
+          <line>16</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -643,109 +663,11 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_30.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="2617" column="9" lean-forward="true" selection-start-line="2617" selection-start-column="9" selection-end-line="2617" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/CCSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="994" column="10" lean-forward="true" selection-start-line="994" selection-start-column="10" selection-end-line="994" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plots/fit_time/maximums.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="9" selection-start-line="2" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plots/fit_time/TravellingSales-100-13-MM-log.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mimic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puzzles/k_coloring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-206">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puzzles/travelling_salesman.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="37" selection-start-line="8" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plots/fit_iter/Knapsack-100-13.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plots/fit_iter/Knapsack-1000-13.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plots/fit_time/MaxKColor-1000-13-MM-log.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plots/fit_time/MaxKColor-100-13-MM-log.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plots/fit_time/Knapsack-1000-13-MM-log.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plots/fit_time/Knapsack-100-13-MM-log.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_31.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/contraceptive.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plots/fit_iter/MaxKColor-1000-13.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plots/fit_iter/TravellingSales-1000-13.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plots/fit_iter/TravellingSales-100-13.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/plots/fit_iter/MaxKColor-1000-13-log.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/plots/fit_iter/MaxKColor-100-13.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puzzles/run_all.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_32.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -784,16 +706,6 @@
     <entry file="file://$PROJECT_DIR$/plots/neural_network/avg_NN_3.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/puzzles/bar_char2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plots/neural_network/avg_NN_3.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -812,43 +724,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/plots/neural_network/NN_accuracy.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/genetic_algorithm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="81" column="54" selection-start-line="81" selection-start-column="50" selection-end-line="81" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///anaconda3/envs/py37/lib/python3.7/site-packages/mlrose/decay.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="173" column="34" selection-start-line="173" selection-start-column="31" selection-end-line="173" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puzzles/puzzle_solver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/simulated_annealing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="34" column="76" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="76" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -891,23 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///anaconda3/envs/py37/lib/python3.7/site-packages/mlrose/algorithms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="336" selection-start-line="336" selection-end-line="336" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///anaconda3/envs/py37/lib/python3.7/site-packages/mlrose/neural.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="411" column="23" lean-forward="true" selection-start-line="411" selection-start-column="23" selection-end-line="415" selection-end-column="53" />
-          <folding>
-            <element signature="e#125#143#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1290">
@@ -925,12 +783,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///anaconda3/envs/py37/lib/python3.7/site-packages/mlrose/algorithms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="173" column="4" selection-start-line="173" selection-start-column="4" selection-end-line="173" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/neural_networks/neural_networks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="60" column="23" lean-forward="true" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+        <state relative-caret-position="720">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="12" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/neural_network/avg_NN_13-10000.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="1" column="173" selection-start-line="1" selection-start-column="173" selection-end-line="1" selection-end-column="173" />
+          <caret line="2" column="176" selection-start-line="2" selection-start-column="176" selection-end-line="2" selection-end-column="176" />
+          <caret line="3" column="168" selection-start-line="3" selection-start-column="168" selection-end-line="3" selection-end-column="168" />
+          <caret line="4" column="174" selection-start-line="4" selection-start-column="174" selection-end-line="4" selection-end-column="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/neural_network/avg_NN_13.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/neural_network/values.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="351" lean-forward="true" selection-start-line="351" selection-end-line="351" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/envs/py37/lib/python3.7/site-packages/mlrose/neural.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="534" column="8" selection-start-line="534" selection-start-column="8" selection-end-line="534" selection-end-column="8" />
+          <folding>
+            <element signature="e#125#143#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -938,27 +837,188 @@
     <entry file="file://$PROJECT_DIR$/neural_networks/bar_chart.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="76" column="40" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plots/neural_network/avg_NN_13.csv">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_34.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///anaconda3/envs/py37/lib/python3.7/site-packages/sklearn/externals/joblib/externals/cloudpickle/cloudpickle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="282">
+          <caret line="52" column="13" lean-forward="true" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plots/neural_network/values.csv">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_35.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="266" selection-start-line="264" selection-end-line="266" />
-          <caret line="294" selection-start-line="292" selection-end-line="294" />
-          <caret line="322" selection-start-line="320" selection-end-line="322" />
-          <caret line="350" lean-forward="true" selection-start-line="348" selection-end-line="350" />
+        <state relative-caret-position="90">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzles/bar_char2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="46" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="46" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_36.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_37.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzles/knapsack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzles/run_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/random_hill_climb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_38.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/ind_puzzles/GA_Knapsack.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/ind_puzzles/SA_KColor.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzles/travelling_salesman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzles/k_coloring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="38" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzles/puzzle_solver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_39.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/ind_puzzles/SA_TSP.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/genetic_algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="113" column="83" selection-start-line="113" selection-start-column="74" selection-end-line="113" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/individual_puzzles/GA_params.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="49" column="26" lean-forward="true" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/individual_puzzles/MIMIC_params.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/simulated_annealing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/individual_puzzles/SA_params.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+          <folding>
+            <element signature="e#1#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/envs/py37/lib/python3.7/site-packages/mlrose/decay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="163" column="34" selection-start-line="163" selection-start-column="27" selection-end-line="163" selection-end-column="34" />
         </state>
       </provider>
     </entry>

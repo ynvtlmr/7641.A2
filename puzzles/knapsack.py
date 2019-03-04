@@ -12,8 +12,12 @@ max_attempts = 5
 # values = [1, 2, 3, 4, 5]
 # max_weight_pct = 0.6
 
-weights = list(random.sample(range(1, 50), num_items))
-values = list(random.sample(range(1, 20), num_items))
+# weights = list(random.sample(range(1, 50), num_items))
+# values = list(random.sample(range(1, 20), num_items))
+
+weights = [24, 41, 26, 21, 12, 43, 14, 10, 4, 20]
+values = [5, 16, 7, 2, 11, 12, 19, 17, 10, 18]
+
 max_weight_pct = 0.6
 
 print(weights)

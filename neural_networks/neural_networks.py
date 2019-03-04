@@ -50,7 +50,7 @@ algorithms = [
     'gradient_descent'
 ]
 
-max_iter = 1000
+max_iter = 10000
 max_attempts = 100
 
 full_run = []
