@@ -51,19 +51,19 @@ algorithms = [
 ]
 
 max_iter = 1000
-max_attempts = 50
+max_attempts = 100
 
 full_run = []
 early_quit = []
 
 # values = []
 for a in algorithms:
-    for i in range(7):
+    for i in range(13):
         for early_stopping in [True, False]:
             print('----', a, '----', max_iter, '----', max_attempts, '----')
 
             start_train = time()
-            nn_model1 = mlrose.NeuralNetwork(hidden_nodes=[16],
+            nn_model1 = mlrose.NeuralNetwork(hidden_nodes=[2],
                                              activation='relu',
                                              algorithm=a,
                                              max_iters=max_iter,
@@ -92,12 +92,20 @@ for a in algorithms:
             predict_time = time() - start_predict
             # values.append[a, i, t, y_train_accuracy, y_test_accuracy]
 
-            full_run.append([a, i,
-                             max_iter, max_attempts, early_stopping,
-                             train_time, predict_time,
-                             y_train_accuracy, y_test_accuracy])
-            print('full_run', full_run[-1])
-            writer.writerow(full_run[-1])
+            if early_stopping:
+                early_quit.append([a, i,
+                                   max_iter, max_attempts, early_stopping,
+                                   train_time, predict_time,
+                                   y_train_accuracy, y_test_accuracy])
+                print('early_quit', early_quit[-1])
+                writer.writerow(early_quit[-1])
+            else:
+                full_run.append([a, i,
+                                 max_iter, max_attempts, early_stopping,
+                                 train_time, predict_time,
+                                 y_train_accuracy, y_test_accuracy])
+                print('full_run', full_run[-1])
+                writer.writerow(full_run[-1])
 
     avg_full_run = np.array(full_run)[:, -4:]
     avg_early_quit = np.array(early_quit)[:, -4:]

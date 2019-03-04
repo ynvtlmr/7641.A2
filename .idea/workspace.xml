@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="303b6bf7-29a1-4b52-bfe9-fce2e56b6abb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NN_accuracy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/banana.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/neural_network.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/neural_networks/neural_networks.py" beforeDir="false" afterPath="$PROJECT_DIR$/neural_networks/neural_networks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/neural_network/NN_accuracy.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/neural_network/NN_accuracy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/neural_network/NN_times.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/neural_network/NN_times.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/neural_network/avg_NN_13.csv" beforeDir="false" afterPath="$PROJECT_DIR$/plots/neural_network/avg_NN_13.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/neural_network/values.csv" beforeDir="false" afterPath="$PROJECT_DIR$/plots/neural_network/values.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinkering.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsp-path.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/tsp-path.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unused_data/abalone.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unused_data/banana.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unused_data/banknotes.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unused_data/bike_sharing_day.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unused_data/contraceptive.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unused_data/diabetes.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,12 +36,12 @@
     <SUITE FILE_PATH="coverage/7641_a2$run_all.coverage" NAME="run_all Coverage Results" MODIFIED="1551495262352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzles" />
     <SUITE FILE_PATH="coverage/7641_a2$knapsack.coverage" NAME="knapsack Coverage Results" MODIFIED="1551308033283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzles" />
     <SUITE FILE_PATH="coverage/7641_a2$tinkering.coverage" NAME="tinkering Coverage Results" MODIFIED="1550557207681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/7641_a2$neural_networks.coverage" NAME="neural_networks Coverage Results" MODIFIED="1551654727047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neural_networks" />
+    <SUITE FILE_PATH="coverage/7641_a2$neural_networks.coverage" NAME="neural_networks Coverage Results" MODIFIED="1551655763537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neural_networks" />
     <SUITE FILE_PATH="coverage/7641_a2$scratch_28.coverage" NAME="scratch_28 Coverage Results" MODIFIED="1551302188876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/7641_a2$nn_compare.coverage" NAME="nn_compare Coverage Results" MODIFIED="1551510850661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neural_networks" />
     <SUITE FILE_PATH="coverage/7641_a2$scratch_19.coverage" NAME="scratch_19 Coverage Results" MODIFIED="1550776790825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/7641_a2$k_coloring.coverage" NAME="k_coloring Coverage Results" MODIFIED="1551312042215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzles" />
-    <SUITE FILE_PATH="coverage/7641_a2$bar_chart.coverage" NAME="bar_chart Coverage Results" MODIFIED="1551649057450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neural_networks" />
+    <SUITE FILE_PATH="coverage/7641_a2$bar_chart.coverage" NAME="bar_chart Coverage Results" MODIFIED="1551656959435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neural_networks" />
     <SUITE FILE_PATH="coverage/7641_a2$scratch_31.coverage" NAME="scratch_31 Coverage Results" MODIFIED="1551494425214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -72,11 +60,11 @@
         <counts>
           <entry key="CCSE" value="4" />
           <entry key="avg_NN_13" value="1" />
-          <entry key="csv" value="58" />
+          <entry key="csv" value="61" />
           <entry key="ipynb" value="3" />
-          <entry key="md" value="2" />
+          <entry key="md" value="3" />
           <entry key="png" value="98" />
-          <entry key="py" value="228" />
+          <entry key="py" value="229" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
@@ -84,27 +72,27 @@
         <counts>
           <entry key="IPNB" value="3" />
           <entry key="Image" value="98" />
-          <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="65" />
-          <entry key="Python" value="211" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="68" />
+          <entry key="Python" value="212" />
           <entry key="Scratch" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="CCSE" value="137" />
-          <entry key="csv" value="143" />
+          <entry key="csv" value="153" />
           <entry key="dummy" value="12" />
-          <entry key="md" value="119" />
-          <entry key="py" value="7781" />
-          <entry key="txt" value="588" />
+          <entry key="md" value="120" />
+          <entry key="py" value="7810" />
+          <entry key="txt" value="624" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="119" />
-          <entry key="PLAIN_TEXT" value="805" />
-          <entry key="Python" value="6715" />
+          <entry key="Markdown" value="120" />
+          <entry key="PLAIN_TEXT" value="851" />
+          <entry key="Python" value="6744" />
           <entry key="Scratch" value="1141" />
         </counts>
       </usages-collector>
@@ -113,34 +101,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-608">
-                <caret line="16" column="24" lean-forward="true" selection-end-line="86" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/neural_networks/neural_networks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3">
+              <caret line="60" column="23" lean-forward="true" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.txt">
+        <entry file="file://$PROJECT_DIR$/plots/neural_network/values.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+            <state relative-caret-position="460">
+              <caret line="266" selection-start-line="264" selection-end-line="266" />
+              <caret line="294" selection-start-line="292" selection-end-line="294" />
+              <caret line="322" selection-start-line="320" selection-end-line="322" />
+              <caret line="350" lean-forward="true" selection-start-line="348" selection-end-line="350" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/neural_networks/neural_networks.py">
+        <entry file="file://$PROJECT_DIR$/plots/neural_network/avg_NN_13.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neural_networks/bar_chart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="76" column="40" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor>
+                <caret selection-end-column="42" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -156,9 +168,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>dir</find>
-      <find>time</find>
-      <find>csv</find>
       <find>f.</find>
       <find>100</find>
       <find>gradient_descent</find>
@@ -186,6 +195,9 @@
       <find>True</find>
       <find>layers</find>
       <find>hidden_nodes</find>
+      <find>,12,1000,100</find>
+      <find>12,1000,100,False</find>
+      <find>full_run</find>
     </findStrings>
     <replaceStrings>
       <replace>time()</replace>
@@ -249,13 +261,13 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.py" />
         <option value="$PROJECT_DIR$/neural_networks/nn_compare.py" />
         <option value="$PROJECT_DIR$/plots/neural_network/avg_NN_3.csv" />
-        <option value="$PROJECT_DIR$/plots/neural_network/avg_NN_13.csv" />
         <option value="$PROJECT_DIR$/neural_networks/bar_chart.py" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/plots/neural_network/values.csv" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_33.py" />
-        <option value="$PROJECT_DIR$/neural_networks/neural_networks.py" />
         <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/neural_networks/neural_networks.py" />
+        <option value="$PROJECT_DIR$/plots/neural_network/values.csv" />
+        <option value="$PROJECT_DIR$/plots/neural_network/avg_NN_13.csv" />
       </list>
     </option>
   </component>
@@ -339,7 +351,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.neural_networks">
+  <component name="RunManager" selected="Python.bar_chart">
     <configuration name="7641.a2" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="7641.a2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -478,9 +490,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bar_chart" />
         <item itemvalue="Python.neural_networks" />
         <item itemvalue="Python.scratch_33" />
-        <item itemvalue="Python.bar_chart" />
         <item itemvalue="Python.bar_char2" />
         <item itemvalue="Python.nn_compare" />
       </list>
@@ -517,13 +529,13 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25702077" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25702077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.3857143" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.40612245" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.3857143" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40612245" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
@@ -536,7 +548,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.34004885" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.34004885" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -580,7 +592,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/neural_networks/neural_networks.py</url>
-          <line>101</line>
+          <line>109</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
@@ -789,13 +801,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plots/neural_network/avg_NN_13.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plots/neural_network/NN_accuracy.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -807,16 +812,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/plots/neural_network/NN_accuracy.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neural_networks/bar_chart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="67" column="51" lean-forward="true" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/genetic_algorithm.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -875,13 +870,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plots/neural_network/values.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_33.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -920,30 +908,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/neural_networks/neural_networks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        <state relative-caret-position="3">
+          <caret line="60" column="23" lean-forward="true" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-608">
-            <caret line="16" column="24" lean-forward="true" selection-end-line="86" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/neural_networks/bar_chart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="76" column="40" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.txt">
+    <entry file="file://$PROJECT_DIR$/plots/neural_network/avg_NN_13.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/neural_network/values.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="266" selection-start-line="264" selection-end-line="266" />
+          <caret line="294" selection-start-line="292" selection-end-line="294" />
+          <caret line="322" selection-start-line="320" selection-end-line="322" />
+          <caret line="350" lean-forward="true" selection-start-line="348" selection-end-line="350" />
         </state>
       </provider>
     </entry>
